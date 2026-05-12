@@ -152,13 +152,10 @@ data/raw/superstore.csv
 
 ## Screenshots
 
-### Airflow DAG
-
-(Add screenshot here)
-
 ### Successful DAG Execution
 
-(Add screenshot here)
+<img width="1888" height="483" alt="image" src="https://github.com/user-attachments/assets/146e9f90-027a-42de-8f72-646626eb2e7a" />
+
 
 ---
 
